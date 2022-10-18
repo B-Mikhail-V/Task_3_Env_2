@@ -1,0 +1,28 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Mikhail-V/Task_3_Env_2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Mikhail-B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Mikhail-V/Task_3_Env_2/issues"
+  },
+  "homepage": "https://github.com/B-Mikhail-V/Task_3_Env_2#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
